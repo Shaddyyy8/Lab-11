@@ -17,3 +17,4 @@ Flexbox
 https://github.com/Shaddyyy8/Lab-11.git
 
 Ссылка на pages:
+https://shaddyyy8.github.io/Lab-11/
