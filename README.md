@@ -1,7 +1,9 @@
-"Mesto"
+Проект "JS. Spirnt4"
 
-Ссылка на GitHub
-https://github.com/malchuganchik/mesto-russia.git
 
-Ссылка на Pages 
-https://malchuganchik.github.io/mesto-russia/
+Технологии:
+JavaScript Grid Layout
+Flexbox
+Медиазапросы
+Подключение шрифтов БЭМ Nested
+
